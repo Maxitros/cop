@@ -1,0 +1,1 @@
+Just type "python manage.py runserver" in console in current folder without applying migrations
